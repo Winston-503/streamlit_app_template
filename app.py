@@ -66,10 +66,13 @@ def toy_ask_chatgpt(input_text: str) -> str:
 def main():
     """ Build Streamlit app """
 
-    st.header("LLM-based application template")
+    st.header("LLM-based application template with Streamlit")
     st.subheader("Information extraction system from job descriptions")
 
-    input_text = st.text_area('Enter job description')
+    with open('sample_job_description.txt', 'r') as f:
+        sample_job_description = f.read()
+
+    input_text = st.text_area('Enter job description', height=500, value=sample_job_description)
     if st.button('Extract information', use_container_width=True):
         with st.spinner('In progress...'):
             # replace with 'ask_chatgpt' if you have configured your key
@@ -88,4 +91,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
