@@ -1,0 +1,30 @@
+Tiger Analytics is an advanced analytics consulting firm. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our consultants bring deep expertise in Data Science, Machine Learning, and AI. Our business value and leadership have been recognized by various market research firms, including Forrester and Gartner.
+
+We are looking for a motivated and passionate Machine Learning Engineers for our team.
+
+As part of this job, you will be responsible for:
+- Providing solutions for the deployment, execution, validation, monitoring, and improvement of data science solutions
+- Creating Scalable Machine Learning systems that are highly performant
+- Building reusable production data pipelines for implemented machine learning models
+- Writing production-quality code and libraries that can be packaged as containers, installed and deployed
+
+Requirements
+- Bachelor's degree or higher in computer science or related, with 5+ years of work experience
+- Ability to collaborate with Data Engineers and Data Scientist to build data and model pipelines and help running machine learning tests and experiments
+- Ability to manage the infrastructure and data pipelines needed to bring ML solution to production
+- End-to-end understanding of applications being created and maintain scalable machine learning solutions in production
+- Ability to abstract complexity of production for machine learning using containers
+- Ability to troubleshoot production machine learning model issues, including recommendations for retrain, revalidate, and improvements
+- Experience with Big Data Projects using multiple types of structured and unstructured data
+- Ability to work with a global team, playing a key role in communicating problem context to the remote teams
+- Excellent communication and teamwork skills
+
+Additional Skills Required
+- Python, Spark, Hadoop, Docker, with an emphasis on good coding practices in a continuous integration context, model evaluation, and experimental design
+- Test-driven development (prefer py. test/nose), experience with Cloud environments
+- Proficiency in statistical tools, relational databases, and expertise in programming language like python/SQL is desired.
+
+Good To Have
+- Knowledge of ML frameworks like Scikitlearn, Tensorflow, Keras, etc.
+- Knowledge of MLflow, Airflow, Kubernetes
+- Knowledge on any of the cloud-native MLaaS offerings like AWS SageMaker, AzureML, or Google AI platform
