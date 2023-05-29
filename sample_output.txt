@@ -1,0 +1,14 @@
+{
+  "job_title": "Machine Learning Engineers",
+  "company": "Tiger Analytics",
+  "key_skills": [
+    "Machine Learning",
+    "Data Science",
+    "Python",
+    "Spark",
+    "Hadoop",
+    "Docker"
+  ],
+  "job_description_summary": "Tiger Analytics is seeking motivated and passionate Machine Learning Engineers to join our team. Candidates must have experience in Data Science, Machine Learning, and AI. As part of this job, you will be responsible for providing solutions for the deployment, execution, validation, monitoring, and improvement of data science solutions, creating scalable machine learning systems, building reusable production data pipelines, and writing production-quality code and libraries.",
+  "job_responsibilities_summary": "As a Machine Learning Engineer, your day-to-day responsibilities will include collaborating with Data Engineers and Data Scientists to build data and model pipelines, managing infrastructure and data pipelines, and maintaining scalable machine learning solutions in production. You will also troubleshoot production machine learning model issues, including recommendations for retrain, revalidate, and improvements. The ability to work with a global team and communicate problem context to remote teams is essential. Additional skills in Python, Spark, Hadoop, Docker, statistical tools, and knowledge of ML frameworks and cloud-native MLaaS offerings are desired."
+}
