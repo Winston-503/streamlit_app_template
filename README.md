@@ -1,6 +1,6 @@
 # LLM-based App Template
 
-Template for LLM-based application built Streamlit and OpenAI API (`gpt-3.5-turbo` model).
+Template for LLM-based application built with Streamlit and OpenAI API (`gpt-3.5-turbo` model).
 
 ## Article
 
@@ -16,6 +16,6 @@ Configure your OpenAI key by following instructions on the [introduction to the 
 
 With configured OpenAI key, the app extracts job title, company name, key skills, job summary and responsibilities from the provided job description. Prompt v5 is used - zero-shot with CoT for two-step summarization, output in JSON.
 
-Without OpenAI key it just waits two seconds and copies the input prompt to the output, appending "OpenAI key is not valid." note at the start.
+Note that **without OpenAI key specified the app just waits two seconds and copies the input prompt to the output**, appending "OpenAI key is not valid" note at the start.
 
-![](app.gif)
+![](assets/app.gif)

@@ -69,7 +69,7 @@ def main():
     st.header("LLM-based application template with Streamlit")
     st.subheader("Information extraction system from job descriptions")
 
-    with open('sample_job_description.txt', 'r') as f:
+    with open('data/sample_job_description.txt', 'r') as f:
         sample_job_description = f.read()
 
     input_text = st.text_area('Enter job description', height=500, value=sample_job_description)
